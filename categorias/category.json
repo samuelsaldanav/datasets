@@ -1,0 +1,21 @@
+{
+  "categories": {
+    "category": [
+      {
+        "categories_id": "1",
+        "name": "New Years Parties",
+        "slug": "new-years-eve"
+      },
+      {
+        "categories_id": "71",
+        "name": "Joonbug Calendar",
+        "slug": "nightlife-calendar"
+      },
+      {
+        "categories_id": "69",
+        "name": "Lindy Calendar",
+        "slug": "nightlife-calendar"
+      }
+    ]
+  }
+}
